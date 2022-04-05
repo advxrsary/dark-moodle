@@ -7,6 +7,7 @@
         color: white;
     }
     
+    
     h1, h2, h3, h4, h5, h6 {
         font-family: "Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
         color: #5378b9;
@@ -19,7 +20,9 @@
     }
     #page-wrapper, #page-wrapper nav {
         background-color: #23272A !important;
-        color: #fff !important;
+    }
+    #page-wrapper, #page-wrapper nav span {
+        color: #8e8e8e !important;
     }
     #nav-drawer {
         background-color: #23272A !important;
@@ -51,6 +54,13 @@
     
     .dropdown-divider {
          border: #232528 1px solid !important;
+    }
+    #page-my-index{
+        background-color: #2C2F33;
+    }
+    
+    .modal-content, .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
+        background-color: #2C2F33;
     }
     .page-header .utilities .usermenu .dropdown-menu {
             background-color: #2C2F33;
@@ -86,6 +96,10 @@
     #dockeditempanel .dockeditempanel_content {
         background-color: #494f53;
         box-shadow: none;
+    }
+    
+    .block .block-controls .dropdown-toggle {
+        color: #55606a;
     }
     
     #dockeditempanel .dockeditempanel_hd h2 {
@@ -181,8 +195,8 @@
         color: #6e8cf3;
     }
     .moodle-dialogue-base .moodle-dialogue-wrap {
-        background-color: #292626;
-        border: 1px solid #ccc;
+            background-color: #292626;
+            border: 1px solid #242424;
     }
     
     }
