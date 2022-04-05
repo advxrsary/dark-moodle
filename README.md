@@ -1,5 +1,4 @@
 # [Moodle] Dark Theme for emokymai.vu.lt
-![image](https://user-images.githubusercontent.com/26182157/161741130-931180c9-acd9-433b-b116-0af0398a87fc.png)
 
 
 Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle Night Mode</a>, thank you Deion Menor.
@@ -16,6 +15,11 @@ Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle N
   5. At the left sidebar click 'Export'
   6. Find 'dark-moodle.css' file and export it.
   7. Toggle switch ON<br>
+
+
+# 
+![image](https://user-images.githubusercontent.com/26182157/161741130-931180c9-acd9-433b-b116-0af0398a87fc.png)
+
 #
 License - CC0 - Public Domain <br>
 Created: April 4, 2022 22:20
