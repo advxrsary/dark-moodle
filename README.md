@@ -1,4 +1,6 @@
 # [Moodle] Dark Theme for emokymai.vu.lt
+
+![New Project](https://user-images.githubusercontent.com/26182157/161755141-23048e45-b42c-4f85-a634-5728da804850.png)
 ![image](https://user-images.githubusercontent.com/26182157/161750016-ed9e9651-4d0a-461c-9fa8-a40d1dd374f3.png)
 
 
