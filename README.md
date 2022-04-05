@@ -20,7 +20,7 @@ Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle N
   7. Toggle switch ON<br>
 
 #
-Author: Sevastian Zare
-License: - CC0 - Public Domain <br>
+Author: Sevastian Zare <br>
+License: CC0 - Public Domain <br>
 Created: April 4, 2022 22:20
 
