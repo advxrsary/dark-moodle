@@ -1,222 +1,316 @@
-html{
-    background-color: #23272A;
-}
-body {
-    background-color: #23272A;
-    color: white;
-}
-.branding-inner a.site-name {
-    content: url(https://user-images.githubusercontent.com/26182157/161755141-23048e45-b42c-4f85-a634-5728da804850.png) !important;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Roboto",-apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-    color: #5378b9;
-    font-weight: 500;
-}
-
-.bg-gray, #rgion-main{
-    background-color: #23272A !important;
-    color: #fff !important;
-}
-#page-wrapper, #page-wrapper nav {
-    background-color: #23272A !important;
-}
-#page-wrapper, #page-wrapper nav span {
-    color: #8e8e8e !important;
-}
-#nav-drawer {
-    background-color: #23272A !important;
-}
-.filemanager-container.card, .fp-navbar.card, .fm-content, .filemanager.fm-noitems .fm-empty-container {
-    background-color: #23272A;
-}
-.navbar-brand{
-    background-color: #23272A !important;
-    color: #fff !important;
-    font-weight: 700;
-}
- .navbar-expand, .navbar-nav, .nav-link {
-    color: #ddd !important
-}
-.block, .block .block-cards .course-summaryitem{
-    background-color: #2C2F33;
-    border: #2C2F33 0px solid;
-}
-
-.breadcrumb {
-    background-color: #2C2F33;
-    color: white;
-}
-
-.dropdown-item, .dropdown-menu  {
+@-moz-document domain("emokymai.vu.lt") {
+    html {
+        background-color: #23272A;
+    }
+    body {
+        background-color: #23272A;
+        color: white;
+    }
+    .branding-inner a.site-name {
+        content: url(https://user-images.githubusercontent.com/26182157/161755141-23048e45-b42c-4f85-a634-5728da804850.png) !important;
+    }
     
-    background-color: #2C2F33;
-    color: white;
-}
-
-.dropdown-divider {
-     border: #232528 1px solid !important;
-}
-#page-my-index{
-    background-color: #2C2F33;
-}
-
-.modal-content, .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
-    background-color: #2C2F33;
-}
-.page-header .utilities .usermenu .dropdown-menu {
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        color: #5378b9;
+        font-weight: 500;
+    }
+    
+    
+    .bg-gray,
+    #rgion-main {
+        background-color: #23272A !important;
+        color: #fff !important;
+    }
+    #page-wrapper,
+    #page-wrapper nav {
+        background-color: #23272A !important;
+        color: #8e8e8e !important;
+    }
+    
+    #nav-drawer {
+        background-color: #23272A !important;
+    }
+    .filemanager-container.card,
+    .fp-navbar.card,
+    .fm-content,
+    .filemanager.fm-noitems .fm-empty-container {
+        background-color: #23272A;
+    }
+    .navbar-brand {
+        background-color: #23272A !important;
+        color: #fff !important;
+        font-weight: 700;
+    }
+    .navbar-expand,
+    .navbar-nav,
+    .nav-link {
+        color: #ddd !important
+    }
+    .block,
+    .block .block-cards .course-summaryitem {
         background-color: #2C2F33;
-}
-
-.page-link:hover {
-    z-index: 2;
-    color: #4263d5;
-    text-decoration: none;
-    background-color: #2C2F33;
-}
-.page-header .utilities .usermenu .dropdown-item:hover, .page-header .utilities .usermenu .dropdown-item:focus {
-    background: #414351;
-    color: #939292;
-}
-
-.calendar_event_course {
-    background-color: #2C2f4f;
-}
-
-.block .minicalendar td.weekend {
-    color: #99AAB5;
-}
-
-#dock .dockedtitle {
-    color: white;
-    border: 0px solid #ccc;
-    text-shadow: 0 1px 1px rgba(255, 255, 255, 0);
-    background-image: none;
-    background-color: #36373f
-}
-
-#dockeditempanel .dockeditempanel_content {
-    background-color: #494f53;
-    box-shadow: none;
-}
-
-.block .block-controls .dropdown-toggle {
-    color: #55606a;
-}
-
-#dockeditempanel .dockeditempanel_hd h2 {
-    color: white;
-}
-
-.block_simple_clock .clock {
-    color: white;
-}
-#region-main-box {
-    background-color: #2c2f33
-}
-.row, .list-group-item {
-    background-color: #1b1e20
-}
-#page-header div {
-    background-color: #292d31;
-}
-.card-body  {
-    background-color: #1b1e20;
-}
-.dashboard-card{
-    border: 1px solid #6c757d !important;
-}
-.border-bottom{
-    border-bottom: 2px solid #6c757d !important
-}
-.page-link, .btn{
-    color: #6c757d;
-    background-color: #1b1e20;
+        border: #2C2F33 0px solid;
+    }
     
-}
-input[type="submit"], input[type="button"] {
-    background: #302e4f;
-    color: #fff;
-    border: 1px solid #35384d !important;
-}
-
-input[type="submit"]:hover {
-    background: #464284;
-}
-
-.btn:hover, .btn-link:hover, .btn-icon:hover, .disabled{
-    background-color: #2c2f33;
-    color: #ddd;
-}
-
-.block .block-cards .btn.btn-link.btn-icon:hover, .block .block-cards .btn.btn-link.btn-icon:focus {
-    background-color: #2c2f33;
-    color: #ddd;
-}
-.dashboard-card {
-    border: 1px solid #444c53 !important;
-}
-
-.branding {
-    background: #333a42 !important;
-}
-
-.pagination .page-item.disabled .page-link{
-    background-color: #3d3d3e;
-    color: #61636c;
-    border: 1px solid #666768;
-}
-.page-link {
-    border: 1px solid #666768;
-}
-.page-link:hover, .pagination .page-item .page-link:hover {
-    color: #b5b5b5;
-    text-decoration: none;
-    background-color: #474e68;
-    border: 1px solid #666768;
-}
-
-.block .block-cards a.coursename {
-    color: #6e8cf3;
-}
-.block .block-cards span.categoryname {
-    color: #727180
-}
-.dashboard-card-deck .dashboard-card .dashboard-card-img {
-    background-image: url("https://user-images.githubusercontent.com/26182157/161745904-ad3d2ba6-1793-4e84-af4a-a5af2bf84a58.png") !important;
-}
-#page-footer .page-footer-inner{
-    background-color: #2c2f33
-}
-
-a:link,
-a:hover,
-a:visited,
-a:active,
-span.flagged-tag a {
-    color: #6e8cf3;
-}
-.moodle-dialogue-base .moodle-dialogue-wrap {
+    .breadcrumb {
+        background-color: #2C2F33;
+        color: white;
+    }
+    
+    .dropdown-item,
+    .dropdown-menu {
+    
+        background-color: #2C2F33;
+        color: white;
+    }
+    
+    .dropdown-divider {
+        border: #232528 1px solid !important;
+    }
+    #page-my-index {
+        background-color: #2C2F33;
+    }
+    
+    .modal-content,
+    .moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
+        background-color: #2C2F33;
+    }
+    .page-header .utilities .usermenu .dropdown-menu {
+        background-color: #2C2F33;
+    }
+    
+    .page-link:hover {
+        z-index: 2;
+        color: #4263d5;
+        text-decoration: none;
+        background-color: #2C2F33;
+    }
+    .page-header .utilities .usermenu .dropdown-item:hover,
+    .page-header .utilities .usermenu .dropdown-item:focus {
+        background: #414351;
+        color: #939292;
+    }
+    
+    .calendar_event_course {
+        background-color: #2C2f4f;
+    }
+    
+    .block .minicalendar td.weekend {
+        color: #99AAB5;
+    }
+    
+    #dock .dockedtitle {
+        color: white;
+        border: 0px solid #ccc;
+        text-shadow: 0 1px 1px rgba(255, 255, 255, 0);
+        background-image: none;
+        background-color: #36373f
+    }
+    
+    #dockeditempanel .dockeditempanel_content {
+        background-color: #494f53;
+        box-shadow: none;
+    }
+    
+    .block .block-controls .dropdown-toggle {
+        color: #55606a;
+    }
+    
+    #dockeditempanel .dockeditempanel_hd h2 {
+        color: white;
+    }
+    
+    .block_simple_clock .clock {
+        color: white;
+    }
+    #region-main-box {
+        background-color: #2c2f33
+    }
+    .row,
+    .list-group-item {
+        background-color: #1b1e20
+    }
+    #page-header div {
+        background-color: #292d31;
+    }
+    .card-body {
+        background-color: #1b1e20;
+    }
+    .dashboard-card {
+        border: 1px solid #6c757d !important;
+    }
+    .border-bottom {
+        border-bottom: 2px solid #6c757d !important
+    }
+    .page-link,
+    .btn {
+        color: #6c757d;
+        background-color: #1b1e20;
+    }
+    input[type="submit"],
+    input[type="button"] {
+        background: #302e4f;
+        color: #fff;
+        border: 1px solid #35384d !important;
+    }
+    
+    input[type="submit"]:hover {
+        background: #464284;
+    }
+    
+    .btn:hover,
+    .btn-link:hover,
+    .btn-icon:hover,
+    .disabled {
+        background-color: #2c2f33;
+        color: #ddd;
+    }
+    
+    .block .block-cards .btn.btn-link.btn-icon:hover,
+    .block .block-cards .btn.btn-link.btn-icon:focus {
+        background-color: #2c2f33;
+        color: #ddd;
+    }
+    .dashboard-card {
+        border: 1px solid #444c53 !important;
+    }
+    
+    .branding {
+        background: #333a42 !important;
+    }
+    
+    .pagination .page-item.disabled .page-link {
+        background-color: #3d3d3e;
+        color: #61636c;
+        border: 1px solid #666768;
+    }
+    .page-link {
+        border: 1px solid #666768;
+    }
+    .page-link:hover,
+    .pagination .page-item .page-link:hover {
+        color: #b5b5b5;
+        text-decoration: none;
+        background-color: #474e68;
+        border: 1px solid #666768;
+    }
+    
+    .block .block-cards a.coursename {
+        color: #6e8cf3;
+    }
+    .block .block-cards span.categoryname {
+        color: #727180
+    }
+    .dashboard-card-deck .dashboard-card .dashboard-card-img {
+        background-image: url("https://user-images.githubusercontent.com/26182157/161745904-ad3d2ba6-1793-4e84-af4a-a5af2bf84a58.png") !important;
+    }
+    #page-footer .page-footer-inner {
+        background-color: #2c2f33
+    }
+    
+    a:link,
+    a:hover,
+    a:visited,
+    a:active,
+    span.flagged-tag a {
+        color: #6e8cf3;
+    }
+    .moodle-dialogue-base .moodle-dialogue-wrap {
         background-color: #292626;
         border: 1px solid #242424;
-}
-.table-striped tbody tr:nth-of-type(2n+1), table.collection tbody tr:nth-of-type(2n+1), table#explaincaps tbody tr:nth-of-type(2n+1), table#defineroletable tbody tr:nth-of-type(2n+1), table.grading-report tbody tr:nth-of-type(2n+1), table#listdirectories tbody tr:nth-of-type(2n+1), table.rolecaps tbody tr:nth-of-type(2n+1), table.userenrolment tbody tr:nth-of-type(2n+1), form#movecourses table tbody tr:nth-of-type(2n+1), #page-admin-course-index .editcourse tbody tr:nth-of-type(2n+1), .forumheaderlist tbody tr:nth-of-type(2n+1), table.flexible tbody tr:nth-of-type(2n+1), .generaltable tbody tr:nth-of-type(2n+1) {
-    background: #2e3237;
-    color: white;
-}
-th {
-    color: #fff;
-}
-.generaltable tbody tr:hover, th:hover {
-    color: #fff;
-    background: #2e3237;
-}
-.path-mod-assign td.submissionnotgraded, .path-mod-assign div.submissionnotgraded {
-    color: #000;
-    background-color: #83848c;
-}
-
-.course-content .sectionname a {
-    color: #909db5 !important; 
-}
+    }
+    .table-striped tbody tr:nth-of-type(2n + 1),
+    table.collection tbody tr:nth-of-type(2n + 1),
+    table#explaincaps tbody tr:nth-of-type(2n + 1),
+    table#defineroletable tbody tr:nth-of-type(2n + 1),
+    table.grading-report tbody tr:nth-of-type(2n + 1),
+    table#listdirectories tbody tr:nth-of-type(2n + 1),
+    table.rolecaps tbody tr:nth-of-type(2n + 1),
+    table.userenrolment tbody tr:nth-of-type(2n + 1),
+    form#movecourses table tbody tr:nth-of-type(2n + 1),
+    #page-admin-course-index .editcourse tbody tr:nth-of-type(2n + 1),
+    .forumheaderlist tbody tr:nth-of-type(2n + 1),
+    table.flexible tbody tr:nth-of-type(2n + 1),
+    .generaltable tbody tr:nth-of-type(2n + 1) {
+        background: #2e3237;
+        color: white;
+    }
+    th {
+        color: #fff;
+    }
+    .generaltable tbody tr:hover,
+    th:hover {
+        color: #fff;
+        background: #2e3237;
+    }
+    .path-mod-assign td.submissionnotgraded,
+    .path-mod-assign div.submissionnotgraded {
+        color: #000;
+        background-color: #83848c;
+    }
+    
+    .course-content .sectionname a,
+    .page-context-header .page-header-headings h1 {
+        color: #909db5 !important;
+    }
+    @keyframes bg-pulse-grey {
+        from {
+            background: #252729
+        }
+    
+        to {
+            background: #383838
+        }
+    }
+    }
+    
+    @-moz-document domain("sso.vu.lt") {
+    .login-container {
+        background: #171117 !important;
+    }
+    .tpHeaderNav {
+        background-color: transparent !important;
+    }
+    
+    .cm-input {
+        border-color: #777 !important;
+        color: white !important;
+    }
+    #top_right .cm-language {
+        border-color: #424242;
+        background-color: #262626;
+        color: white !important;
+    }
+    
+    .cm-btn-active,
+    .cm-btn,
+    .cm-btn2 {
+        background-color: #5e1d3b !important;
+        color: white !important;
+    }
+    .cm-btn:hover {
+    
+        border-color: #9b5766
+    }
+    
+    .cm-text {
+        word-spacing: 0;
+        padding: 15px 0;
+        color: #8a8a8a;
+    }
+    #particles-js {
+        background-color: #1a040e;
+        position: fixed;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        z-index: 0;
+    }
+    }
