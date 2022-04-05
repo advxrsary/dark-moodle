@@ -1,0 +1,614 @@
+html {
+    background-color: #23272A;
+}
+body {
+    background-color: #23272A;
+    color: white;
+}
+.branding-inner a.site-name {
+    content: url(https://user-images.githubusercontent.com/26182157/161755141-23048e45-b42c-4f85-a634-5728da804850.png) !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Roboto", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    color: #5378b9;
+    font-weight: 500;
+}
+
+
+.bg-gray,
+#rgion-main {
+    background-color: #23272A !important;
+    color: #fff !important;
+}
+#page-wrapper,
+#page-wrapper nav {
+    background-color: #23272A !important;
+    color: #8e8e8e !important;
+}
+
+#nav-drawer {
+    background-color: #23272A !important;
+}
+.filemanager-container.card,
+.fp-navbar.card,
+.fm-content,
+.filemanager.fm-noitems .fm-empty-container {
+    background-color: #23272A;
+}
+.navbar-brand {
+    background-color: #23272A !important;
+    color: #fff !important;
+    font-weight: 700;
+}
+.navbar-expand,
+.navbar-nav,
+.nav-link {
+    color: #ddd !important
+}
+.block,
+.block .block-cards .course-summaryitem {
+    background-color: #2C2F33;
+    border: #2C2F33 0px solid;
+}
+
+.breadcrumb {
+    background-color: #2C2F33;
+    color: white;
+}
+
+.dropdown-item,
+.dropdown-menu {
+
+    background-color: #2C2F33;
+    color: white;
+}
+
+.dropdown-divider {
+    border: #232528 1px solid !important;
+}
+#page-my-index {
+    background-color: #2C2F33;
+}
+
+.modal-content,
+.moodle-dialogue-base .moodle-dialogue-wrap.moodle-dialogue-content {
+    background-color: #2C2F33;
+}
+.page-header .utilities .usermenu .dropdown-menu {
+    background-color: #2C2F33;
+}
+
+.page-link:hover {
+    z-index: 2;
+    color: #4263d5;
+    text-decoration: none;
+    background-color: #2C2F33;
+}
+.page-header .utilities .usermenu .dropdown-item:hover,
+.page-header .utilities .usermenu .dropdown-item:focus {
+    background: #414351;
+    color: #939292;
+}
+
+.calendar_event_course {
+    background-color: #2C2f4f;
+}
+
+.block .minicalendar td.weekend {
+    color: #99AAB5;
+}
+
+#dock .dockedtitle {
+    color: white;
+    border: 0px solid #ccc;
+    text-shadow: 0 1px 1px rgba(255, 255, 255, 0);
+    background-image: none;
+    background-color: #36373f
+}
+
+#dockeditempanel .dockeditempanel_content {
+    background-color: #494f53;
+    box-shadow: none;
+}
+
+.block .block-controls .dropdown-toggle {
+    color: #55606a;
+}
+
+#dockeditempanel .dockeditempanel_hd h2 {
+    color: white;
+}
+
+.block_simple_clock .clock {
+    color: white;
+}
+#region-main-box {
+    background-color: #2c2f33
+}
+.row,
+.list-group-item {
+    background-color: #1b1e20
+}
+#page-header div {
+    background-color: #292d31;
+}
+.card-body {
+    background-color: #1b1e20;
+}
+.dashboard-card {
+    border: 1px solid #6c757d !important;
+}
+.border-bottom {
+    border-bottom: 2px solid #6c757d !important
+}
+.page-link,
+.btn {
+    color: #6c757d;
+    background-color: #1b1e20;
+}
+input[type="submit"],
+input[type="button"] {
+    background: #302e4f;
+    color: #fff;
+    border: 1px solid #35384d !important;
+}
+
+input[type="submit"]:hover {
+    background: #464284;
+}
+
+.btn:hover,
+.btn-link:hover,
+.btn-icon:hover,
+.disabled {
+    background-color: #2c2f33;
+    color: #ddd;
+}
+
+.block .block-cards .btn.btn-link.btn-icon:hover,
+.block .block-cards .btn.btn-link.btn-icon:focus {
+    background-color: #2c2f33;
+    color: #ddd;
+}
+.dashboard-card {
+    border: 1px solid #444c53 !important;
+}
+
+.branding {
+    background: #333a42 !important;
+}
+
+.pagination .page-item.disabled .page-link {
+    background-color: #3d3d3e;
+    color: #61636c;
+    border: 1px solid #666768;
+}
+.page-link {
+    border: 1px solid #666768;
+}
+.page-link:hover,
+.pagination .page-item .page-link:hover {
+    color: #b5b5b5;
+    text-decoration: none;
+    background-color: #474e68;
+    border: 1px solid #666768;
+}
+
+.block .block-cards a.coursename {
+    color: #6e8cf3;
+}
+.block .block-cards span.categoryname {
+    color: #727180
+}
+.dashboard-card-deck .dashboard-card .dashboard-card-img {
+    background-image: url("https://user-images.githubusercontent.com/26182157/161745904-ad3d2ba6-1793-4e84-af4a-a5af2bf84a58.png") !important;
+}
+#page-footer .page-footer-inner {
+    background-color: #2c2f33
+}
+
+a:link,
+a:hover,
+a:visited,
+a:active,
+span.flagged-tag a {
+    color: #6e8cf3;
+}
+.moodle-dialogue-base .moodle-dialogue-wrap {
+    background-color: #292626;
+    border: 1px solid #242424;
+}
+.table-striped tbody tr:nth-of-type(2n + 1),
+table.collection tbody tr:nth-of-type(2n + 1),
+table#explaincaps tbody tr:nth-of-type(2n + 1),
+table#defineroletable tbody tr:nth-of-type(2n + 1),
+table.grading-report tbody tr:nth-of-type(2n + 1),
+table#listdirectories tbody tr:nth-of-type(2n + 1),
+table.rolecaps tbody tr:nth-of-type(2n + 1),
+table.userenrolment tbody tr:nth-of-type(2n + 1),
+form#movecourses table tbody tr:nth-of-type(2n + 1),
+#page-admin-course-index .editcourse tbody tr:nth-of-type(2n + 1),
+.forumheaderlist tbody tr:nth-of-type(2n + 1),
+table.flexible tbody tr:nth-of-type(2n + 1),
+.generaltable tbody tr:nth-of-type(2n + 1) {
+    background: #2e3237;
+    color: white;
+}
+th {
+    color: #fff;
+}
+.generaltable tbody tr:hover,
+th:hover {
+    color: #fff;
+    background: #2e3237;
+}
+.path-mod-assign td.submissionnotgraded,
+.path-mod-assign div.submissionnotgraded {
+    color: #000;
+    background-color: #83848c;
+}
+
+.course-content .sectionname a,
+.page-context-header .page-header-headings h1 {
+    color: #909db5 !important;
+}
+@keyframes bg-pulse-grey {
+    from {
+        background: #252729
+    }
+
+    to {
+        background: #383838
+    }
+}
+#region-main {
+    background-color: #383838;
+}
+#jump-to-activity.custom-select {
+    background: #383838;
+    color: #fff;
+}
+.fa:before {
+        content: "";
+    }   
+    
+    .fa {
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position: center center;
+        vertical-align: middle;
+        margin-top: 0.15rem;
+        margin-bottom: 0.15rem;
+    }
+    
+    .fa-mortar-board, .fa-graduation-cap {
+        background-image: url("https://img.icons8.com/fluent/48/000000/book-stack.png");
+    }
+    
+    .fa-file-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/documents.png");
+    }
+    
+    .fa-calendar {
+        background-image: url("https://img.icons8.com/fluent/48/000000/calendar.png");
+    }
+    
+    .fa-home {
+        background-image: url("https://img.icons8.com/fluent/48/000000/home.png");
+    }
+    
+    .fa-tachometer {
+        background-image: url("https://img.icons8.com/fluent/48/000000/speedometer.png");
+    }
+
+    .fa-bell {
+        background-image: url("https://img.icons8.com/fluent/48/000000/appointment-reminders.png");
+    }
+    
+    
+    .fa-comment {
+        background-image: url("https://img.icons8.com/fluent/48/000000/chat.png");
+    }
+    
+    .fa-caret-right {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-right.png");
+    }
+    
+    .fa-caret-down {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-down.png");
+    }
+    
+    .fa-caret-left {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-left.png");
+    }
+    
+    .fa-caret-left {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-up.png");
+    }
+    
+    .fa-bars {
+        background-image: url("https://img.icons8.com/fluent/48/000000/menu.png");
+    }
+    
+    .fa-chevron-right {
+        background-image: url("https://img.icons8.com/fluent/48/000000/forward.png");
+    }
+    
+    .fa-chevron-left {
+        background-image: url("https://img.icons8.com/fluent/48/000000/back.png");
+    }
+    
+    .fa-paper-plane {
+        background-image: url("https://img.icons8.com/fluent/48/000000/filled-sent.png");
+    }
+    
+    .fa-smile-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/happy.png");
+    }
+    
+    .fa-clock-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/time-machine.png");
+    }
+    
+    .fa-leaf {
+        background-image: url("https://img.icons8.com/fluent/48/000000/leaf.png");
+    }
+    
+    .fa-cutlery {
+        background-image: url("https://img.icons8.com/fluent/48/000000/cutlery.png");
+    }
+    
+    .fa-plane {
+        background-image: url("https://img.icons8.com/fluent/48/000000/airport.png");
+    }
+    
+    .fa-futbol-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/football2.png");
+    }
+    
+    .fa-lightbulb-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/light.png");
+    }
+    
+    .fa-heart {
+        background-image: url("https://img.icons8.com/fluent/48/000000/hearts.png");
+    }
+    
+    .fa-flag {
+        background-image: url("https://img.icons8.com/fluent/48/000000/programming-flag.png");
+    }
+    
+    .fa-search {
+        background-image: url("https://img.icons8.com/fluent/48/000000/search.png");
+    }
+    
+    .fa-star {
+        background-image: url("https://img.icons8.com/fluent/48/000000/star.png");
+    }
+    
+    .fa-ellipsis-h {
+        background-image: url("https://img.icons8.com/fluent/48/000000/more.png");
+    }
+    
+    .fa-user, .fa-user-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/user-male-circle.png");
+    }
+    
+    .fa-table {
+        background-image: url("https://img.icons8.com/fluent/48/000000/table-1.png");
+    }
+    
+    .fa-wrench {
+        background-image: url("https://img.icons8.com/fluent/48/000000/settings.png");
+    }
+    
+    .fa-sign-out {
+        background-image: url("https://img.icons8.com/fluent/48/000000/export.png");
+    }
+
+    .fa-cog, .fa-gear {
+        background-image: url("https://img.icons8.com/fluent/48/000000/settings.png");
+    }
+    .fa-cog::before, .fa-gear::before {
+        content: "\00A0" !important;
+    }
+    
+    .fa-arrow-up {
+        background-image: url("https://img.icons8.com/fluent/48/000000/up.png");
+    }
+
+    .fa-users {
+        background-image: url("https://img.icons8.com/fluent/48/000000/conference-background-selected.png");
+    }
+    
+    .fa-shield {
+        background-image: url("https://img.icons8.com/fluent/48/000000/police-badge.png");
+    }
+
+    .fa-check-square-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/checked-2.png");
+    }
+    
+    .fa-folder-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/folder-invoices.png");
+    }
+    
+    .fa-exclamation-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/high-importance.png");
+    }
+    
+    .fa-question-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/help.png");
+    }
+    
+    .fa-th {
+        background-image: url("https://img.icons8.com/fluent/48/000000/thumbnails.png");
+    }
+    
+    .fa-list {
+        background-image: url("https://img.icons8.com/fluent/48/000000/details.png");
+    }
+    
+    .fa-folder {
+        background-image: url("https://img.icons8.com/fluent/48/000000/folder-tree.png");
+    }
+    
+    .fa-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/filled-circle.png");
+    }
+    
+    .fa-star-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/star.png");
+    }
+    
+    .fa-long-arrow-down {
+        background-image: url("https://img.icons8.com/fluent/48/000000/thick-arrow-pointing-down.png");
+    }
+    
+    .fa-long-arrow-up {
+        background-image: url("https://img.icons8.com/fluent/48/000000/thick-arrow-pointing-up.png");
+    }
+    
+    .fa-globe {
+        background-image: url("https://img.icons8.com/fluent/48/000000/globe.png");
+    }
+    
+    .fa-cubes {
+        background-image: url("https://img.icons8.com/fluent/48/000000/category.png");
+    }
+    
+     .fa-cubes {
+        background-image: url("https://img.icons8.com/fluent/48/000000/category.png");
+    }
+    
+    .fa-group {
+        background-image: url("https://img.icons8.com/fluent/48/000000/groups.png");
+    }
+    
+    .fa-align-left {
+        background-image: url("https://img.icons8.com/fluent/48/000000/align-left.png");
+    }
+    
+    .fa-info, .fa-info-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/info.png");
+    }
+    
+    .fa-filter {
+        background-image: url("https://img.icons8.com/fluent/48/000000/filter.png");
+    }
+    
+    .fa-file-zip-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/archive-folder.png");
+    }
+    
+    .fa-level-up {
+        background-image: url("https://img.icons8.com/fluent/48/000000/up3.png");
+    }
+    
+    .fa-copy {
+        background-image: url("https://img.icons8.com/fluent/48/000000/copy.png");
+    }
+    
+    .fa-arrow-left {
+        background-image: url("https://img.icons8.com/fluent/48/000000/left.png");
+    }
+    
+    .fa-trash {
+        background-image: url("https://img.icons8.com/fluent/48/000000/delete-forever.png");
+    }
+    
+    .fa-pencil {
+        background-image: url("https://img.icons8.com/fluent/48/000000/pencil-tip.png");
+    }
+    
+    .fa-plus {
+        background-image: url("https://img.icons8.com/fluent/48/000000/add.png");
+        min-width: 20px;
+        min-height: 20px;
+    }
+
+    .fa-times-circle {
+        background-image: url("https://img.icons8.com/fluent/48/000000/cancel.png");
+    }
+    
+    .fa-times {
+        background-image: url("https://img.icons8.com/fluent/48/000000/delete-sign.png");
+    }
+    
+    .fa-check {
+        background-image: url("https://img.icons8.com/fluent/48/000000/checkmark.png");
+    }
+    
+    .fa-sort-asc {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-up.png");
+    }
+    
+    .fa-sort-desc {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort-down.png");
+    }
+    
+    .fa-minus {
+        background-image: url("https://img.icons8.com/fluent/48/000000/minus.png");
+    }
+    
+    .fa-sort {
+        background-image: url("https://img.icons8.com/fluent/48/000000/sort.png");
+    }
+    
+    .fa-search-plus {
+        background-image: url("https://img.icons8.com/fluent/48/000000/zoom-in--v1.png");
+    }
+    
+    .fa-area-chart {
+        background-image: url("https://img.icons8.com/fluent/48/000000/area-chart.png");
+    }
+    
+    .fa-arrows-v {
+        background-image: url("https://img.icons8.com/fluent/48/000000/resize-vertical.png");
+    }
+    
+    .fa-paint-brush {
+        background-image: url("https://img.icons8.com/fluent/48/000000/paint.png");
+    }
+    
+    .fa-upload {
+        background-image: url("https://img.icons8.com/fluent/48/000000/upload--v16.png");
+    }
+    
+    .fa-download {
+        background-image: url("https://img.icons8.com/fluent/48/000000/download.png");
+    }
+    
+    .fa-refresh {
+        background-image: url("https://img.icons8.com/fluent/48/000000/refresh.png");
+    }
+    
+    .fa-arrow-right {
+        background-image: url("https://img.icons8.com/fluent/48/000000/left.png");
+    }
+    
+    .fa-eye {
+        background-image: url("https://img.icons8.com/fluent/48/000000/visible.png");
+    }
+    
+    .fa-circle-o {
+        background-image: url("https://img.icons8.com/fluent/48/000000/unchecked-circle.png");
+    }
+    
+    .fa-arrows {
+        background-image: url("https://img.icons8.com/fluent/48/000000/move.png");
+    }
+    
+    .fa-user-secret {
+        background-image: url("https://img.icons8.com/fluent/48/000000/hacker.png");
+    }
+    
+    .fa-exclamation {
+        background-image: url("https://img.icons8.com/fluent/48/000000/high-importance.png");
+    }
