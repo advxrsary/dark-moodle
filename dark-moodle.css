@@ -180,7 +180,10 @@
     span.flagged-tag a {
         color: #6e8cf3;
     }
-    
+    .moodle-dialogue-base .moodle-dialogue-wrap {
+        background-color: #292626;
+        border: 1px solid #ccc;
+    }
     
     }
     
