@@ -1,10 +1,12 @@
 # [Moodle] Dark Theme for emokymai.vu.lt
 
 ![New Project](https://user-images.githubusercontent.com/26182157/161755141-23048e45-b42c-4f85-a634-5728da804850.png)
-![image](https://user-images.githubusercontent.com/26182157/161750016-ed9e9651-4d0a-461c-9fa8-a40d1dd374f3.png)
+![image](https://user-images.githubusercontent.com/26182157/161785664-8db3a712-9a61-49df-92eb-bf0a502b822e.png)
 
 
-Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle Night Mode</a>, thank you Deion Menor.
+
+
+Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle Night Mode</a> and  <a href="https://github.com/GioIacca9/Moodle-Dark">Moodle-Dark</a>, thank you!
 # Installation 
   **Easy method:** <br>
   1. Download Stylus extension for your browser <a href="https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne?hl=en">Chrome</a>/<a href="https://addons.mozilla.org/en-US/firefox/addon/styl-us/">Firefox</a>
@@ -18,6 +20,11 @@ Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle N
   5. At the left sidebar click 'Export'
   6. Find 'dark-moodle.css' file and export it.
   7. Toggle switch ON<br>
+
+# Optional (more compatability) 
+1. Go to Preferences -> Edit profile -> General -> Prefered Theme
+2. Select 'Boost'
+3. Enjoy.
 
 #
 Author: Sevastian Zare <br>
