@@ -63,6 +63,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #pageheader-middle-left img {
     -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
 
 .breadcrumb > li {
