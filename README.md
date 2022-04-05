@@ -1,4 +1,6 @@
 # [Moodle] Dark Theme for emokymai.vu.lt
+![image](https://user-images.githubusercontent.com/26182157/161741130-931180c9-acd9-433b-b116-0af0398a87fc.png)
+
 
 Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle Night Mode</a>, thank you Deion Menor.
 # Installation 
