@@ -22,7 +22,7 @@ Based on <a href="https://github.com/deionmenor/moodle-night-mode">ADMU Moodle N
   7. Toggle switch ON<br>
 
 # Optional (more compatability) 
-1. Go to 'Preferences -> Edit profile -> General -> Prefered Theme
+1. Go to Preferences -> Edit profile -> General -> Prefered Theme
 2. Select 'Boost'
 3. Enjoy.
 
